@@ -8,10 +8,15 @@ In this talk, we will cover the basics of chrome extension including the followi
   - Content and Background
   - Content and Popup
   - Background and Popup
+  - Content and Page Scripts
+  - Background and Page scripts
 - Chrome extension APIs
-- What are web extensions ?
-- How to port your chrome extension to web extension ?
+- What are web extensions?
+- Unlisted extensions (Self host your extension)
+- How to port your chrome extension to web extension?
+- How to handle multiple manifests in your source code?
 - Debugging tips
+  - Debugging of different types of scripts
 
 Finally, we will host a hands on session in which we will create a chrome extension.
 
