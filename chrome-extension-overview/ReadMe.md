@@ -37,3 +37,4 @@ Presently he is employed with Adobe systems and looking forward to share his bro
 - Content Scripts - https://developer.chrome.com/extensions/content_scripts
 - Content Script, PageScript - https://developer.chrome.com/extensions/content_scripts#host-page-communication
 - Runtime Messaging - https://developer.chrome.com/extensions/messaging
+- Installing extension in dev mode - https://medium.com/@requestly_ext/installing-reloading-chrome-extension-for-development-purpose-aa520fbcfdf1
