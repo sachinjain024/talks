@@ -33,8 +33,7 @@ Presently he is employed with Adobe systems and looking forward to share his bro
 # References
 - Chrome Extension APIs - https://developer.chrome.com/extensions/api_index
 - Web Extensions Home - https://developer.mozilla.org/en-US/Add-ons/WebExtensions
+- Manifest - https://developer.chrome.com/extensions/manifest
 - Content Scripts - https://developer.chrome.com/extensions/content_scripts
-
-## Communication
 - Content Script, PageScript - https://developer.chrome.com/extensions/content_scripts#host-page-communication
 - Runtime Messaging - https://developer.chrome.com/extensions/messaging
