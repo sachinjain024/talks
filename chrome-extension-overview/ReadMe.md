@@ -33,3 +33,4 @@ Presently he is employed with Adobe systems and looking forward to share his bro
 # References
 - Chrome Extension APIs - https://developer.chrome.com/extensions/api_index
 - Web Extensions Home - https://developer.mozilla.org/en-US/Add-ons/WebExtensions
+- Content Scripts - https://developer.chrome.com/extensions/content_scripts
