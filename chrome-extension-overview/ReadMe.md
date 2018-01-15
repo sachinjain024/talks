@@ -1,3 +1,6 @@
+# Slides
+- http://slides.com/sachinjain/let-s-build-your-first-chrome-extension/fullscreen
+
 # Talk Overview
 
 In this talk, we will cover the basics of chrome extension including the following:
