@@ -37,3 +37,4 @@ Presently he is employed with Adobe systems and looking forward to share his bro
 
 ## Communication
 - Content Script, PageScript - https://developer.chrome.com/extensions/content_scripts#host-page-communication
+- Runtime Messaging - https://developer.chrome.com/extensions/messaging
