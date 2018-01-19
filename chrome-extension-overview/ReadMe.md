@@ -34,6 +34,7 @@ Presently he is employed with Adobe systems and looking forward to share his bro
 - No framework knowledge is required but its good to have in order to build complex applications.
 
 # References
+- Requestly - https://chrome.google.com/webstore/detail/requestly-redirect-url-mo/mdnleldcmiljblolnjhpnblkcekpdkpa
 - Chrome Extension APIs - https://developer.chrome.com/extensions/api_index
 - Web Extensions Home - https://developer.mozilla.org/en-US/Add-ons/WebExtensions
 - Manifest - https://developer.chrome.com/extensions/manifest
