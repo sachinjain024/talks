@@ -18,6 +18,6 @@ Exercise 2 - A Social Media Sites Blocker (Or AdBlocker)
 3. Create a new file - `background.js`
 4. Add background script entry in manifest.json
 5. Use [webRequest APIs](https://developer.chrome.com/extensions/webRequest) to intercept and block a request.
-6. 6. [Follow this guide](https://medium.com/@requestly_ext/installing-reloading-chrome-extension-for-development-purpose-aa520fbcfdf1) to load your extension in developer mode
+6. [Follow this guide](https://medium.com/@requestly_ext/installing-reloading-chrome-extension-for-development-purpose-aa520fbcfdf1) to load your extension in developer mode
 
 Yep Done!
