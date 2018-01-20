@@ -8,6 +8,9 @@ Exercise 1 - Create Virtual Currency Tracker
 5. Use CoinMarketCap APIs (https://coinmarketcap.com/api/) to render virtual currency list and their prices in popup
 6. [Follow this guide](https://medium.com/@requestly_ext/installing-reloading-chrome-extension-for-development-purpose-aa520fbcfdf1) to load your extension in developer mode
 
+## Hints
+- JSbin url for ajax request - http://jsbin.com/cobunawihe/edit?html,js
+
 As simple as that!
 
 Exercise 2 - A Social Media Sites Blocker (Or AdBlocker)
